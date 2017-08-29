@@ -5,6 +5,3 @@ __author__ = 'larsg'
 
 Database.initialize()
 
-post = Post.from_blog('123')
-
-print(post)
